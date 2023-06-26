@@ -18,4 +18,4 @@ or **/usr/local/bin** ***(FOR MACOS VERSIONS THAT DOES NOT LET YOU MOVE THE FILE
 
 or if you run your executables somewhere else **Path/triehash** ***(OTHER THAN /usr/bin or /usr/local/bin)***
 
-**ATTENTION: DO NOT USE THIS URL: https://github.com/julian-klode/triehash BECAUSE THERE ARE NO INSTALLATION INSTRUCTIONS ON HOW TO INSTALL IT SO USE THIS ONE: https://github/eliekh05/triehash-on-mac**
+**ATTENTION: DO NOT USE THIS URL: https://github.com/julian-klode/triehash BECAUSE THERE ARE NO INSTALLATION INSTRUCTIONS ON HOW TO INSTALL IT SO USE THIS ONE: https://github.com/eliekh05/triehash-on-mac**
